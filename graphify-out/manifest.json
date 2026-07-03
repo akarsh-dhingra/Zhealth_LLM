@@ -1,0 +1,42 @@
+{
+  "agent.py": {
+    "mtime": 1783092646.0902362,
+    "ast_hash": "2c50d03d09d42370cf7ea6478c38abd9",
+    "semantic_hash": ""
+  },
+  "home_robot_sim.py": {
+    "mtime": 1782871864.0,
+    "ast_hash": "01a842b235debbc20a8355de4d016caf",
+    "semantic_hash": ""
+  },
+  "run.py": {
+    "mtime": 1782871864.0,
+    "ast_hash": "712462a9da9d157b60de5c16d09a7291",
+    "semantic_hash": ""
+  },
+  "tests.py": {
+    "mtime": 1782872942.0,
+    "ast_hash": "45528cae7c419322a540fe4c99b1a7ba",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1782872870.0,
+    "ast_hash": "43b409542ca00068658c0491a2ee9119",
+    "semantic_hash": ""
+  },
+  "plan.md": {
+    "mtime": 1782972009.633122,
+    "ast_hash": "277ca34881fbd5217b6e034acfec4fe3",
+    "semantic_hash": ""
+  },
+  "requirements.txt": {
+    "mtime": 1782881412.0,
+    "ast_hash": "21b88ddcbe636fa5bb4f0eeeacfa1698",
+    "semantic_hash": ""
+  },
+  "1023151236_prj2.md": {
+    "mtime": 1783091597.3727286,
+    "ast_hash": "db46c02904093964255ae903dbeac944",
+    "semantic_hash": ""
+  }
+}
